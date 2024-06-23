@@ -36,7 +36,7 @@ export const BackofficeWrapper = styled.div`
   }
 `;
 
-export const BackofficeAlignmentWrapper = styled.div`
+/*export const BackofficeAlignmentWrapper = styled.div`
   max-width: 1000px;
   margin: 0 auto;
   display: grid;
@@ -56,7 +56,7 @@ export const BackofficeAlignmentWrapper = styled.div`
     padding: 0 20px;
     margin-left: 0px;
   }
-`;
+`;*/
 export const BackofficeCard = styled.div`
   background: #010606;
   display: flex;
