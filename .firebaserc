@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "lb-24-25-winter-ais",
+    "winter": "aiesec-in-sliit-winter",
+    "staging ": "lb24-25-summer-ais"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

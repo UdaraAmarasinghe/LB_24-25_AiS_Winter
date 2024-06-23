@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Product Sans"), local("./fonts/Product-Sans-Regular.ttf"),
+    url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2)
+      format("woff2");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Product Sans", sans-serif;
+}
+
+.time {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #000000;
+}
